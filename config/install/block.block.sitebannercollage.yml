@@ -1,0 +1,24 @@
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:image_banner:8fa69ef8-9b6b-4025-86a9-ca91a95f4107'
+  module:
+    - block_content
+  theme:
+    - engage
+id: sitebannercollage
+theme: engage
+region: header
+weight: -6
+provider: null
+plugin: 'block_content:8fa69ef8-9b6b-4025-86a9-ca91a95f4107'
+settings:
+  id: 'block_content:8fa69ef8-9b6b-4025-86a9-ca91a95f4107'
+  label: 'Site Banner Collage'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

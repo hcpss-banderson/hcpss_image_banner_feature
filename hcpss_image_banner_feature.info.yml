@@ -1,0 +1,12 @@
+name: 'Image Banner Feature'
+description: 'Creates an image banner.'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - block_content
+  - field
+  - file
+  - image
+version: 8.x-1.0
+package: HCPSS

@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies: {  }
+name: banner_collage
+label: 'Banner Collage'
+effects:
+  5fc698e4-cf2c-4fac-a810-0173b271b33a:
+    uuid: 5fc698e4-cf2c-4fac-a810-0173b271b33a
+    id: image_scale
+    weight: 1
+    data:
+      width: null
+      height: 260
+      upscale: true

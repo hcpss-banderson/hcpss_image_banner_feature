@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+id: image_banner
+label: 'Image Banner'
+revision: 0
+description: 'This block displays 3 images tiled horizontally.'
