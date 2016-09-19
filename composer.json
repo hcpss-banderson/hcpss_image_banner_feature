@@ -1,5 +1,5 @@
 {
-  "name": "hcpss_image_banner_feature",
+  "name": "hcpss/hcpss_image_banner_feature",
   "type": "drupal-module",
   "description": "Creates an image banner.",
   "keywords": ["Drupal"],
